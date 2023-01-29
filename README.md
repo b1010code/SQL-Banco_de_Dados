@@ -1,3 +1,2 @@
-# Banco de Dados / SQL - minhas querys. 
+# Banco de Dados / SQL - estudo de querys. 
 
-# SQL é a base de todo banco... ...Desenvolvimentos exercidos em todos os níveis.
